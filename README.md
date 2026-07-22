@@ -3,7 +3,7 @@ An advanced, browser-based tool for real-time Very Low Frequency (VLF) signal an
 
 Linked to: VLF Maps MultiPortal with link & pre-filled questions to AI,ML,LLM,& GenAI. https://github.com/GiamMaBasedResearchers/VLFMONITORING
 
-Thanks especially to the ECMWF, ASTRAGRAPH, KeepTrack, ROM-SAF Group that allows us these analyzes with publicly available data!
+Thanks especially to the VLF & LF Group that allows us these analyzes with publicly available data!
 
 [https://www.ecmwf.int/ , http://astria.tacc.utexas.edu/AstriaGraph/, http://astria.tacc.utexas.edu/AstriaGraph/, https://rom-saf.eumetsat.int/](https://www.qsl.net/dl4yhf/spectra1.html) , DL0AO VLF-Grabber near Amberg, JN59VK https://vlf.u01.de/ , VLF Grabber in Nürnberg, JN59NJ https://df6nm.de/vlf/vlfgrabber.htm
 
