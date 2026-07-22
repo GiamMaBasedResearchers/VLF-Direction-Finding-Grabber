@@ -13,6 +13,11 @@ As always, you can use the plain HTML locally 👋👋👋
 
 🛰️ VLF Direction Finding Grabber
 
+
+<img width="1917" height="922" alt="image" src="https://github.com/user-attachments/assets/933348fd-06e6-4d0c-8548-69beea934afc" />
+
+
+
 An advanced, browser-based tool for real-time Very Low Frequency (VLF) signal analysis, bearing extraction, and geographic triangulation. This application interfaces with live remote spectrogram feeds to detect signal anomalies, extract directional data from visual compass overlays, and plot multi-station triangulations on interactive 2D and 3D maps.
 🌟 Key Features
 1. Advanced Spectrogram Analysis
