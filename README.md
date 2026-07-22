@@ -13,15 +13,15 @@ As always, you can use the plain HTML locally 👋👋👋
 
 To preview GitHub HTML files, use these services by pasting the link [https://github.com/GiamMaBasedResearchers/VLFMONITORING/blob/main/index.html](https://github.com/GiamMaBasedResearchers/VLF-Direction-Finding-Grabber/blob/main/VLF_DF%202.html)
 
-https://htmlpreview.github.io/?
-
 https://raw.githack.com/ (Tested / working)
 
 Thanks to:
 
-https://github.com/neoascetic/rawgithack
+https://github.com/neoascetic/rawgithack (Tested / working)
 
-https://github.com/htmlpreview/htmlpreview.github.com (Tested / working)
+Fast Links:
+
+https://raw.githack.com/GiamMaBasedResearchers/VLF-Direction-Finding-Grabber/main/VLF_DF%202.html
 
 
 🛰️ VLF Direction Finding Grabber
